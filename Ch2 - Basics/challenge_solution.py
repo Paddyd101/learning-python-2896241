@@ -26,4 +26,5 @@ while (run):
         if x.isalnum():
             newstr += x
 
-    print("Palindrome test:", is_palindrome(newstr))
+    print("Palindrome test here:", is_palindrome(newstr))
+    ## test
